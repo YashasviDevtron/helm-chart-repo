@@ -1,0 +1,17 @@
+apiVersion: v1
+entries:
+  devtron-scoop:
+  - apiVersion: v1
+    appVersion: 1.16.0
+    created: "2024-07-23T18:53:00.725826+05:30"
+    description: Chart to deploy scoop
+    digest: 33b84e2853978140417fc58323704abee4bcfebee8e28ca12b47e568947ec41c
+    maintainers:
+    - email: devops@devtron.ai
+      name: Devops-Team DEVTRON
+    name: devtron-scoop
+    type: application
+    urls:
+    - https://github.com/YashasviDevtron/helm-chart-repo/devtron-scoop-1.0.1.tgz
+    version: 1.0.1
+generated: "2024-07-23T18:53:00.725128+05:30"
