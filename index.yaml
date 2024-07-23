@@ -12,6 +12,6 @@ entries:
     name: devtron-scoop
     type: application
     urls:
-    - https://github.com/YashasviDevtron/helm-chart-repo/devtron-scoop-1.0.1.tgz
+    - https://github.com/YashasviDevtron/helm-chart-repo/raw/main/devtron-scoop-1.0.1.tgz
     version: 1.0.1
 generated: "2024-07-23T18:53:00.725128+05:30"
